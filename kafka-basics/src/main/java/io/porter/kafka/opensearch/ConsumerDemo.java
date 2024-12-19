@@ -1,4 +1,4 @@
-package io.porter.kafka;
+package io.porter.kafka.opensearch;
 
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.clients.consumer.ConsumerRecords;

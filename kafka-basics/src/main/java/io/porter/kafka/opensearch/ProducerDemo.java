@@ -1,4 +1,4 @@
-package io.porter.kafka;
+package io.porter.kafka.opensearch;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerRecord;

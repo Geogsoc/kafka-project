@@ -1,4 +1,4 @@
-package io.porter.kafka.wikimedia;
+package io.porter.kafka.opensearch.wikimedia;
 
 
 import com.launchdarkly.eventsource.MessageEvent;
